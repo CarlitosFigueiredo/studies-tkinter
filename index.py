@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 def submit():
+    
     # recupera os dados dos campos de entrada
     nome = nome_entry.get()
     email = email_entry.get()
